@@ -1,5 +1,5 @@
 Copy the class into your project and you're good to go!
-A lot of other cool functionality can be added to this but I was really only interested in pulling images from websites.
+A lot of other cool functionality can be added to this but I was really only interested in designing a basic way to render images into Minecraft
 
 # How to Render Images
 
